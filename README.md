@@ -16,14 +16,15 @@
 #### 2. What was most difficult? What would you do differently?
 ##### The most difficult part, for me personally, was my inexperience using many new frameworks, APIs and services for project. In particular, I had very limited knowledge of React, and none with Bootstrap, Firebase and FusionCharts API. However, our project was heavily dependant on these services and I took it upon myself with ambition to learn more about these integral tools in the world of front and back end development. There was certainly a learning curve to this challenge, and often I spent more time debugging and reading (and rereading) documention than I did coding, but with perserverence and asking my groupmates for help I was able to accomplish much and learn even more.
 #### 3.What implementation, testing, and integration methods might you want to try again in the future on another project?
-##### There are various different kinds
+##### There are various different kinds of new implementation, testing, and integration that I would like to try. The foremost method I would want to involve more in my development process would be more code reviews with my peers. In my  experience with these, theyve been extremely helpful in both learning different strategies on the best ways to go about certain issues, as well as fixing my code so its works properly. This ensures that my code is complete and correct in accordance to my group's goals, as well as informing my groupmates about my progress and my capabilites.
 
 ---
 ### Process
 #### 1. What was most helpful about implementing kanban and code review in your project?
-
+##### The utilization of the kanban board and code reviews helped our group stay n track and informed tremendously. The kanban board was particuarly helpful, both in creating and assigning many issues that the project would need to have completed by the time for deployment, and informing our peers on how our progress has come along. I personally took great advantage of the comment feature for the issues on our kanban board, listing out small accomplishment and trouble that I had as I worked on my delegated work. As previously mentioned, code reviews were also a great asset. It allowed our groupmates to help where needed, and assess where each one of us were in time management and skill capability. For me, code reviews were important to my personal growth through the learning curve of a variety of new services I was working with for this project. Communication and lending a helpful hand to one another throughout the process of this project was absolutely essential to its completion.
 #### 2. What was most difficult? What would you do differently?
-
+##### 
 #### 3. What software processes or practices might you want to try again in the future on another project?
+##### 
 ---
 ### Overall
