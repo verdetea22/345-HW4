@@ -34,5 +34,4 @@
 #### 2. Implementation
 ##### 
 #### 3. Processes
-#####
-
+##### As taught in class, our group followed a variety an agile practices and processes that greatly helped in the creation of our project. At a high level, some of the specific practices that we used include scrum, kanban boards and following the triangle of agile requirements granularity, such as sprints and user stories. We understoof that the waterfall model was a costly and problematic one. The sprial model was used in junction to some of these agile practices, as there is such a natural feel to developing, evaluating, refactoring and planning for the next objective. This was particuarly evident in the groups code reviews. However, with the integration of agile we were able to undergo this process but with our scope, schedule and resources in mind. Involving these processes made the world of a difference when developing a project with such complexity between four memebers. 
