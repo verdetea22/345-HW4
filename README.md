@@ -28,3 +28,11 @@
 ##### For this project, the team used both agile development and utilized story points in order to establish methodology, as well as establish and delegate the main objectives of the project, shown in the kanban board. In the future I would like to try the aagile estimation strategy, where group members use an iterative approach to estimate the complexity of some of the larger tasks at hand, as talked about in class. This not only gages the estimated size of the project, but also creates a dialouge of the most important specifics of the project and each members scope of skill. I feel like this instance in particular would have been particularly helpful with this project. 
 ---
 ### Overall
+#### Our team experimented of different design methods, implementation practices, and software processes. Here are some of the different practices, and how they were benefical by comparison:
+#### 1. Design
+##### In terms of design, our group focused mostly on behavioral patterns. These kinds of patterns foocus on chain oof responsibility, command and interpretation, different states and different strategies. For our finance bot, these attributes were integral to how we wanted the flow of our project to be: data-focused with the ability to create and expand based on what the user inputs and how they want their data to be used and displayed. A strucutal pattern would have also been benefical for this project, with the use of adapters, bridges, composites and proxies we could have accomplished many of the same objectives in perhaps an easier way. However, we decided with a behavioral approach for simplicity and straight-forwardness when understanding how all of the functional and data-related elements would come together. Further more, we used abstraction in our implementatin, following a visitor-patter-esce approach to how we would use and display the user data. 
+#### 2. Implementation
+##### 
+#### 3. Processes
+#####
+
